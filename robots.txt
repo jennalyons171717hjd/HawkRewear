@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jennalyons171717hjd.github.io/hawkrewear/sitemap.xml
+Sitemap: https://jennalyons171717hjd.github.io/HawkRewear/sitemap.xml
